@@ -1,4 +1,3 @@
-# Amharic-News-Dataset
 I did this project to collect dataset for my paper [Amharic Text Classification Dataset](https://arxiv.org/pdf/2103.05639 "Amharic Text Classification Dataset") for classification.This project contains scripts written in Python to scrape news and other metedata from 🔟 most popular Ethiopian🇪🇹 news sites. The script saves the scrapped data in CSV format. 
 ## Sources
 * [x] Addis Admas
