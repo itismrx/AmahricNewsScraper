@@ -11,6 +11,7 @@ I did this project to collect dataset for my paper [Amharic Text Classification 
 * [x] The Reporter
 * [x] VOA Amharic
 * [x] Walta Media and Communication
+  
 ##Output
 Each script outputs a CSV file with columns. The columns will vary with data in each website.
 Here are the data to be scraped.
